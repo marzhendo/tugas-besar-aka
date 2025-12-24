@@ -1,8 +1,10 @@
 # tugas-besar-aka
 
-## Judul: Studi Komparasi Kinerja Waktu Eksekusi Antara Pendekatan Rekursif dan Iteratif dalam Perhitungan Deret Geometri
+### Judul: Studi Komparasi Kinerja Waktu Eksekusi Antara Pendekatan Rekursif dan Iteratif dalam Perhitungan Deret Geometri
 
-### Anggota
+### Kelompok 11
+
+#### Anggota
 
 | Nama                    | NIM          | Kelas      |
 |-------------------------|--------------|------------|
