@@ -56,9 +56,9 @@ def update_graph():
     plt.pause(0.1)
 
 # nilai awal deret
-a = 2  # suku pertama
-r = 3  # rasio
-MAX_N = 50  # batas maksimal suku
+a = 2  # suku pertama (opsional bisa diisi nilai berapapun)
+r = 3  # rasio (opsional bisa diisi nilai berapapun)
+MAX_N = 50  # batas maksimal suku ke-n (max library dapat menerima input adalah 999)
 
 
 # loop utama
